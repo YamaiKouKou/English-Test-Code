@@ -1,0 +1,72 @@
+{
+  "AboutTest" : {
+      "1": {
+        "JaSentence": "一連の行動",
+        "EnSentence" : "",
+        "Answer" : "a course of action"
+      },
+      "2": {
+        "JaSentence": "いくつかの",
+        "EnSentence" : "",
+        "Answer" : "a number of"
+      },    
+      "3": {
+        "JaSentence": "豊富な",
+        "EnSentence" : "",
+        "Answer" : "a wealth of"
+      },    
+      "4": {
+        "JaSentence": "とりわけ、何よりも",
+        "EnSentence" : "",
+        "Answer" : "above all"
+      },    
+      "5": {
+        "JaSentence": "結局",
+        "EnSentence" : "",
+        "Answer" : "after all"
+      },     
+      "6": {
+        "JaSentence": "予定より早く",
+        "EnSentence" : "",
+        "Answer" : "ahead of schedule"
+      },    
+      "7": {
+        "JaSentence": "～と一緒に",
+        "EnSentence" : "",
+        "Answer" : "along with"
+      },    
+      "8": {
+        "JaSentence": "とりわけ、何よりも",
+        "EnSentence" : "",
+        "Answer" : "among other things"
+      },    
+      "9": {
+        "JaSentence": "全体として",
+        "EnSentence" : "",
+        "Answer" : "as a whole"
+      },
+      "10": {
+        "JaSentence": "早ければ",
+        "EnSentence" : "",
+        "Answer" : "as early as"
+      },
+      "11": {
+        "JaSentence" : "",
+        "EnSentence" : "" ,
+        "Answer" : ""
+      },
+      "12": {
+        "JaSentence" : "",
+        "EnSentence" : "" ,
+        "Answer" : ""
+      }
+  
+    },
+  "aa" : {
+    "": {
+        "JaSentence" : "",
+        "EnSentence" : "" ,
+        "Answer" : ""
+      }
+    }
+}
